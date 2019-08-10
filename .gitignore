@@ -1,0 +1,10 @@
+/target/
+/logs/
+/bin/
+/.*
+!/.gitignore
+!/.vscode
+/src/main/webapp/dist/*
+node_modules/
+/ngrok/
+src/main/webapp/package-lock.json
